@@ -6,6 +6,6 @@ Part of the WUI framework, see **https://bitbucket.org/wuiframework/com-wui-fram
 
 
 ## Licensing
-Copyright (c) 2018 NXP
+This software is owned or controlled by NXP Semiconductors. The use of this software is governed by the BSD-3-Clause Licence distributed with this material.
 
-See [LICENSE](LICENSE).
+For copyright and detail see [LICENSE](LICENSE).
